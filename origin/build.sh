@@ -1,6 +1,6 @@
 #!/bin/bash
 
-readonly PROJECT_PATH=/Users/liudongxu03/Documents/IdeaProjects/openresty-starter
+readonly PROJECT_PATH=/root/openresty-starter
 readonly ORIGIN_PATH=${PROJECT_PATH}/origin/
 # readonly SRC_PATH=${PROJECT_PATH}/src
 readonly OUTPUT_PATH=${PROJECT_PATH}/output
